@@ -1,0 +1,9 @@
+use_triangle:True
+use_attention:False
+use_label_info:True
+use_label_kmean:True
+ngram_embed:True
+use_label_linkM4:True
+use_transformer:False
+seqLen:200
+weightedLoss:1
