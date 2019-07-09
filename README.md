@@ -1,5 +1,7 @@
 # Protein Sequence Structure Prediction
 
+MNNN (Multi-scale Neighborhood-based Neural Network) is an example code for predicting dihedral angles using only primary protein sequences. It is very useful for computing the 3D structural information of known and unknown protein sequence. 
+
 ## requisites
 
 python>=3.6.
