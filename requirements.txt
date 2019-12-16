@@ -1,6 +1,6 @@
 python>=3.6
 
-tensorflow==1.8
+tensorflow==1.15.0
 
 sklearn==0.19.1
 
